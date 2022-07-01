@@ -1,0 +1,5 @@
+*.ipynb
+*.exe
+*.html
+code/**
+**/*_files/**
